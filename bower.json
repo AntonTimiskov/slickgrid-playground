@@ -1,0 +1,21 @@
+{
+  "name": "slickgrid-playground",
+  "version": "0.1.0",
+  "main": "",
+  "directory" : "vendors",
+  
+  "dependencies": {
+    "angular": "1.2.26",
+    "angular-mocks": "1.2.26",
+    "angular-sanitize": "1.2.26",
+    "momentjs": "2.6.0"
+  },
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendors"
+  ],
+
+  "private": false
+}
